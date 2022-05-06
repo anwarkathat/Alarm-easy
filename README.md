@@ -1,4 +1,15 @@
 # Alarm-easy
+
+/* the keyword used are:-
+    1.Toolbar
+    2.splash screen
+    3.alarm manager
+    4.progressbar
+    5.intent
+    6.receiver
+    7.pending intent
+     */
+
 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/57281589/167158192-b9336087-db10-46f3-898d-0307b9d07e0e.png)
